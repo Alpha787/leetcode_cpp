@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+# fleet folder
+*.fleet
+
 # Precompiled Headers
 *.gch
 *.pch
